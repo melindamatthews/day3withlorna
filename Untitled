@@ -1,0 +1,2 @@
+meals = {"breakfast", = "yaogurt", "lunch" => "lasagne", "dinner" => "crisps"}
+p meals ["dinner"]
